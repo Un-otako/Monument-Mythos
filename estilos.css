@@ -26,7 +26,6 @@ h2{
 
 #Video{
     width: 500px
-    
 }
 
 #FotoPrincipal{ 
@@ -45,7 +44,18 @@ h2{
     border-radius: 30px;
 }
 
+#TerceraFoto{
+    width: 300px; 
+    height: 200px;
+    border-radius: 10px
+}
+
 .Sombreado2{
+    -webkit-box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81); 
+            box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81);
+}
+
+.Sombreado3{
     -webkit-box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81); 
             box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81);
 }
