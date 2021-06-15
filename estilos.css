@@ -10,18 +10,23 @@ h1{
   text-shadow: 7px 7px 4px #000000;
 }
 
-.ParrafoNegro{
-    color: rgb(0, 0, 0); /* Rojo 0, verde 0, azul 0 */
-    font-family: 'Cormorant Garamond', serif;
-    text-shadow: 7px 7px 4px #000000;
-}
-
 h2{
    color: rgb(150, 0, 0 ); /* Rojo 150, verde 0, azul 0 */
    text-align: center;
    font-family: 'Cormorant Garamond', serif;
    font-size: 30px;
    text-shadow: 7px 7px 4px #000000;
+}
+
+.caja2{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 22px
+}
+
+.ParrafoNegro{
+    color: rgb(0, 0, 0); /* Rojo 0, verde 0, azul 0 */
+    font-family: 'Cormorant Garamond', serif;
+    text-shadow: 7px 7px 4px #000000;
 }
 
 #Video{
@@ -33,7 +38,7 @@ h2{
     border-radius: 30px;
 }
 
-.Sombreado{
+.Sombreado1{
     -webkit-box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81); 
             box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81);
 }
@@ -88,6 +93,5 @@ h2{
     position: relative;
     top: 0px;
     right: 0px;
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 22px;
+    ;
 }
