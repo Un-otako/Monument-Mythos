@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(136, 170, 113); /* Rojo 136, verde 170, azul 113 */
+}
+
+h1{
+  color: rgb(150, 0, 0); /* Rojo 150, verde 0, azul 0 */
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 50px;
+  text-shadow: 7px 7px 4px #000000;
+}
+
+h2{
+  color: rgb(150, 0, 0 ); /* Rojo 150, verde 0, azul 0 */
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 30px;
+  text-shadow: 7px 7px 4px #000000;
+}
+
+.caja2{
+   font-family: 'Cormorant Garamond', serif;
+   font-size: 22px
+}
+
+.ParrafoNegro{
+    color: rgb(0, 0, 0); /* Rojo 0, verde 0, azul 0 */
+    font-family: 'Cormorant Garamond', serif;
+    text-shadow: 7px 7px 4px #000000;
+}
+
+#Video{
+    width: 500px
+}
+
+#FotoPrincipal{ 
+    width: 500px; 
+    border-radius: 30px;
+}
+
+.Sombreado1{
+    -webkit-box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81); 
+            box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81);
+}
+
+#FotoSecundaria{ 
+    width: 300px; 
+    height: 200px;
+    border-radius: 30px;
+}
+
+#TerceraFoto{
+    width: 300px; 
+    height: 200px;
+    border-radius: 10px
+}
+
+.Sombreado2{
+    -webkit-box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81); 
+            box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81);
+}
+
+.Sombreado3{
+    -webkit-box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81); 
+            box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81);
+}
+
+.listaoceano{
+    color: rgb(16, 9, 109); /* Rojo 2, verde 95, azul  20 */
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+    text-shadow: 7px 7px 4px #000000;
+}
+
+.listachocolate{
+    color:rgb(3, 100, 35); /* Rojo 3, verde 100, azul 35 */
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+    text-shadow: 7px 7px 4px #000000;
+}
+
+.CosasDeLaPagina{
+    color: rgb(128, 68, 0);
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+    text-shadow: 7px 7px 4px #000000;
+}
+
+.Caja{
+    border: 5px rgb(19, 70, 14) dashed;
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+    top: 0px;
+    right: 0px;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 22px;
+}
