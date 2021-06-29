@@ -38,11 +38,6 @@ h2{
     border-radius: 30px;
 }
 
-.Sombreado1{
-    -webkit-box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81); 
-            box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81);
-}
-
 #FotoSecundaria{ 
     width: 300px; 
     height: 200px;
@@ -55,12 +50,28 @@ h2{
     border-radius: 10px
 }
 
+#CuartaFoto{
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+}
+
+.Sombreado1{
+    -webkit-box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81); 
+            box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81);
+}
+
 .Sombreado2{
     -webkit-box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81); 
             box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81);
 }
 
 .Sombreado3{
+    -webkit-box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81); 
+            box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81);
+}
+
+.sombreado4{
     -webkit-box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81); 
             box-shadow: 18px 18px 10px 6px rgba(0,0,0,0.81);
 }
